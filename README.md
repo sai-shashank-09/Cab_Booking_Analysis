@@ -1,4 +1,4 @@
-Cab Booking System Data Analysis (MySQL Project)
+# Cab Booking System Data Analysis (MySQL Project)
 ---
 ## 📌 Project Overview
 This project analyzes cab booking data to help optimize operations, improve driver performance, and enhance customer satisfaction.  
@@ -25,13 +25,13 @@ The main goals of this analysis are:
 
 ### **2️⃣ Driver Performance & Efficiency**
 - Find drivers with average ratings below 3.0 in the past 3 months.
-- Identify the top 5 drivers with longest trips.
+- Identify the top 5 drivers with the longest trips.
 - Detect drivers with high cancellation percentages.
 
 ### **3️⃣ Revenue & Business Metrics**
 - Calculate total revenue from completed rides in the last 6 months.
-- Identify top 3 most frequently traveled routes.
-- Analyze correlation between driver ratings and earnings.
+- Identify the top 3 most frequently traveled routes.
+- Analyze the correlation between driver ratings and earnings.
 
 ### **4️⃣ Operational Efficiency & Optimization**
 - Analyze average waiting time by pickup location.
