@@ -1,5 +1,5 @@
 # Cab Booking System Data Analysis (MySQL Project)
-
+---
 ## 📌 Project Overview
 This project analyzes cab booking data to help optimize operations, improve driver performance, and enhance customer satisfaction.  
 The analysis is based on an **Uber rides dataset** imported into **MySQL Workbench**, and SQL queries are used to derive actionable insights.
@@ -23,28 +23,20 @@ The main goals of this analysis are:
 - Find customers who cancel more than 30% of their rides.
 - Discover the busiest days of the week.
 
----
-
 ### **2️⃣ Driver Performance & Efficiency**
 - Find drivers with average ratings below 3.0 in the past 3 months.
 - Identify the top 5 drivers with longest trips.
 - Detect drivers with high cancellation percentages.
-
----
 
 ### **3️⃣ Revenue & Business Metrics**
 - Calculate total revenue from completed rides in the last 6 months.
 - Identify top 3 most frequently traveled routes.
 - Analyze correlation between driver ratings and earnings.
 
----
-
 ### **4️⃣ Operational Efficiency & Optimization**
 - Analyze average waiting time by pickup location.
 - Identify common reasons for trip cancellations.
 - Evaluate whether shorter trips significantly contribute to revenue.
-
----
 
 ### **5️⃣ Comparative & Predictive Analysis**
 - Compare revenue between ‘Sedan’ and ‘SUV’ cabs.
