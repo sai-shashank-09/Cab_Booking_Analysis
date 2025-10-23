@@ -57,6 +57,14 @@ The main goals of this analysis are:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/sai-shashank-09/Cab_Booking_Analysis.git
+2. **Import dataset**
+    * Open MySQL Workbench
+    * Create a new database `cab_booking_db`
+    * Import `uber_rides.xlsx` (after converting to CSV if needed)
+
+3. **Run SQL Queries**
+    * Execute each `.sql` file from the `SQL_Queries` folder
+    * Observe analytical results for each section
 
 # 👤 Author
 Sunku Venkata Sai Shashank  
