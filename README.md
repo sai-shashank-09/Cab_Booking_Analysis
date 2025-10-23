@@ -1,4 +1,4 @@
-**Cab Booking System Data Analysis (MySQL Project)**
+### **Cab Booking System Data Analysis (MySQL Project)**
 ---
 **📌 Project Overview**
 This project analyzes cab booking data to help optimize operations, improve driver performance, and enhance customer satisfaction.  
@@ -16,9 +16,9 @@ The main goals of this analysis are:
 
 ---
 
-**🧠 Analytical Sections & Sample Insights**
+### **🧠 Analytical Sections & Sample Insights**
 
-### **1️⃣ Customer & Booking Analysis**
+**1️⃣ Customer & Booking Analysis**
 - Identify customers with the most completed bookings.
 - Find customers who cancel more than 30% of their rides.
 - Discover the busiest days of the week.
@@ -68,7 +68,7 @@ The main goals of this analysis are:
 
 ---
 
-**👤 Author**
+**👤 Author**  
 Sunku Venkata Sai Shashank  
 📧 svs.shashank09@gmail.com  
 🔗 [GitHub Profile](https://github.com/sai-shashank-09)
