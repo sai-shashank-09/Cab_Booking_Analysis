@@ -66,6 +66,8 @@ The main goals of this analysis are:
     * Execute each `.sql` file from the `SQL_Queries` folder
     * Observe analytical results for each section
 
+---
+
 # 👤 Author
 Sunku Venkata Sai Shashank  
 📧 svs.shashank09@gmail.com  
